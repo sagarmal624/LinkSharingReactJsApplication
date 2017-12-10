@@ -8,7 +8,6 @@ import {
 } from 'react-router-dom'
 
 import NavBar from '../navigationBar/NavBar'
-
 const AuthController = () => (
     <Router>
         <div>

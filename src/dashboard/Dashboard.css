@@ -1,0 +1,19 @@
+
+.inbox-panel-body {
+    height: 480px;
+    overflow: auto;
+    position: relative
+}
+
+.inbox-panel-heading {
+    border: 1px solid gray;
+    border-radius: 10px
+}
+
+.topic-name-color {
+    color: blue;
+}
+
+.badge {
+    color: aqua !important;
+}
